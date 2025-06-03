@@ -1,5 +1,3 @@
-# *Machine Learning*
-
 # *🏠 Objectif du projet*
 Développer un modèle de régression linéaire multiple pour prédire le prix de l'immobilier à Paris à partir de diverses caractéristiques des logements.
 # *📊 Données utilisées*
