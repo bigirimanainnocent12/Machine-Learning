@@ -33,6 +33,6 @@ Le jeu de données contient 17 variables décrivant les propriétés immobilièr
 # *📦 Exemple de prédiction*
 * Une campagne de test est réalisée avec les caractéristiques suivantes :
     * 34 000 m², 4 pièces, jardin, piscine, 5 étages, etc.
-* Le modèle prédit un **prix estimé** d’environ **\$1 057 000** (valeur fictive à titre d'exemple).
+* Le modèle prédit un **prix estimé** d’environ **\$3406944** (valeur fictive à titre d'exemple).
 
 
